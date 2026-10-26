@@ -67,4 +67,4 @@ For any questions or suggestions, please contact us at [ umeshjagtap068@gmail.co
 
 Thank you for choosing Sun Hospital! We hope this system enhances your healthcare management experience.
 
-### DEMO LINK:- https://drive.google.com/file/d/1JjPEMbUP6RecnewDRZXKBxTCbFwGeLtZ/view?usp=sharing
+
